@@ -1,4 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{Warum JavaScript keine sch\IeC {\"o}ne Sprache ist}{3}{0}{1}
-\beamer@sectionintoc {2}{Was ihr an JavaScript m\IeC {\"o}gen k\IeC {\"o}nntet}{3}{0}{2}
-\beamer@sectionintoc {3}{Warum ich JavaScript nicht mag}{3}{0}{3}
