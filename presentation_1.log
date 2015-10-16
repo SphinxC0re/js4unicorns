@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.9.22)  14 OCT 2015 17:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.9.22)  16 OCT 2015 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1140,21 +1140,82 @@ Package pdftex.def Info: assets/duck.png used on input line 142.
 
 [4
 
- <./assets/type-safety.png> <./assets/duck.png>] [5
+ <./assets/type-safety.png> <./assets/duck.png>]
+<assets/noclassesES5.png, id=141, 760.8425pt x 277.035pt>
+File: assets/noclassesES5.png Graphic file (type png)
 
-]
-<assets/conthis.png, id=166, 774.895pt x 657.45625pt>
+<use assets/noclassesES5.png>
+Package pdftex.def Info: assets/noclassesES5.png used on input line 156.
+(pdftex.def)             Requested size: 228.2545pt x 83.11113pt.
+
+<assets/noclassesES6.png, id=142, 760.8425pt x 234.8775pt>
+File: assets/noclassesES6.png Graphic file (type png)
+
+<use assets/noclassesES6.png>
+Package pdftex.def Info: assets/noclassesES6.png used on input line 156.
+(pdftex.def)             Requested size: 228.2545pt x 70.46379pt.
+ [5
+
+ <./assets/noclassesES5.png> <./assets/noclassesES6.png>] <assets/conthis.png, 
+id=171, 774.895pt x 657.45625pt>
 File: assets/conthis.png Graphic file (type png)
- <use assets/conthis.png>
-Package pdftex.def Info: assets/conthis.png used on input line 164.
+
+<use assets/conthis.png>
+Package pdftex.def Info: assets/conthis.png used on input line 167.
 (pdftex.def)             Requested size: 240.21497pt x 203.80933pt.
 
-Overfull \vbox (4.12938pt too high) detected at line 164
+Overfull \vbox (4.12938pt too high) detected at line 167
  []
 
 [6
 
  <./assets/conthis.png>] [7
+
+]
+<assets/everyobject_object.png, id=224, 674.52pt x 271.0125pt>
+File: assets/everyobject_object.png Graphic file (type png)
+
+<use assets/everyobject_object.png>
+Package pdftex.def Info: assets/everyobject_object.png used on input line 189.
+(pdftex.def)             Requested size: 202.35756pt x 81.30437pt.
+
+<assets/everyobject_asarray.png, id=225, 674.52pt x 270.00874pt>
+File: assets/everyobject_asarray.png Graphic file (type png)
+
+<use assets/everyobject_asarray.png>
+Package pdftex.def Info: assets/everyobject_asarray.png used on input line 189.
+
+(pdftex.def)             Requested size: 202.35756pt x 81.00323pt.
+ [8
+
+ <./assets/everyobject_object.png> <./assets/everyobject_asarray.png>]
+File: assets/everyobject_object.png Graphic file (type png)
+ <use assets/everyobject_object.png>
+Package pdftex.def Info: assets/everyobject_object.png used on input line 202.
+(pdftex.def)             Requested size: 202.35756pt x 81.30437pt.
+File: assets/everyobject_asarray.png Graphic file (type png)
+
+<use assets/everyobject_asarray.png>
+Package pdftex.def Info: assets/everyobject_asarray.png used on input line 202.
+
+(pdftex.def)             Requested size: 202.35756pt x 81.00323pt.
+ [9
+
+]
+<assets/everyobject_iterating.png, id=279, 659.46375pt x 626.34pt>
+File: assets/everyobject_iterating.png Graphic file (type png)
+
+<use assets/everyobject_iterating.png>
+Package pdftex.def Info: assets/everyobject_iterating.png used on input line 21
+3.
+(pdftex.def)             Requested size: 197.84064pt x 187.90344pt.
+ [10
+
+ <./assets/everyobject_iterating.png>] [11
+
+] [12
+
+] [13
 
 ]
 \tf@nav=\write6
@@ -1166,42 +1227,37 @@ Overfull \vbox (4.12938pt too high) detected at line 164
 \tf@snm=\write8
 \openout8 = `presentation_1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
  (./presentation_1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 239.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 239.
+Package rerunfilecheck Info: File `presentation_1.out' has not changed.
+(rerunfilecheck)             Checksum: 1F9ED6A1E3319F75FF7264C8B65B9090;220.
 
-
-Package rerunfilecheck Warning: File `presentation_1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `presentation_1.out':
-(rerunfilecheck)             Before: B71A110BBCA343B2B13046F2B52BC28C;212
-(rerunfilecheck)             After:  1F9ED6A1E3319F75FF7264C8B65B9090;220.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 239.
  ) 
 Here is how much of TeX's memory you used:
- 16867 strings out of 493089
- 319421 string characters out of 6140694
- 390296 words of memory out of 5000000
- 19928 multiletter control sequences out of 15000+600000
- 6720 words of font info for 24 fonts, out of 8000000 for 9000
+ 16923 strings out of 493089
+ 320447 string characters out of 6140694
+ 389296 words of memory out of 5000000
+ 19965 multiletter control sequences out of 15000+600000
+ 7437 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,56p,394b,569s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmssi8.pfb>
-Output written on presentation_1.pdf (7 pages, 123643 bytes).
+c/amsfonts/cm/cmssi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmssi17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
+Output written on presentation_1.pdf (13 pages, 266607 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 211 compressed objects within 3 object streams
- 18 named destinations out of 1000 (max. 500000)
- 82 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 411 PDF objects out of 1000 (max. 8388607)
+ 364 compressed objects within 4 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
